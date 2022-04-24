@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 https://www.markdownguide.org/cheat-sheet/ odosnie np. pogrubień tutaj, wstawienia obrazka etc.
+https://docs.github.com/en/get-started/onboarding/getting-started-with-github-team - odnosnie krok po kroku how 2 github
 -->
 
 
