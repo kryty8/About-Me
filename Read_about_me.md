@@ -1,6 +1,7 @@
 ### Hello Everyone! 
 
-My name is Krzysztof but you can call me Kris 😎 <br />
+My name is Krzysztof but you can call me Kris 😎 
+
 Currently im a student from Poznan University of Technology, my field of education is electronic and telecomunication.
 
 
@@ -8,6 +9,9 @@ Currently im a student from Poznan University of Technology, my field of educati
 
 <!--
 Do siebie samego: "<!-- zaczyna sie komentarz "- - >" razem połączone w 1 daje koniec linii z komentarzem. Także publicznie tego nie widać
+
+<br /> masz nową linie także gitarka
+
 **kryty8/kryty8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
