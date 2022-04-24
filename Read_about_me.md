@@ -1,7 +1,7 @@
 ### Hello Everyone! 
 
-My name is Krzysztof but you can call me Kris 😎__
-Currently im a student from Poznan University of Technology, my field of education is electronic and telecomunication.
+My name is Krzysztof but you can call me Kris 😎
+__Currently im a student from Poznan University of Technology, my field of education is electronic and telecomunication.
 
 
 
