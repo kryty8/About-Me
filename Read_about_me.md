@@ -6,10 +6,10 @@ Currently im a student from Poznan University of Technology, my field of educati
 
 A little bit about me:
 
-~ I like video games 🎮, some strategy like CiV V (my favorite!), First Person Shooter (for example The Halo Series)
-~ I like also board games 🎲, like Cavern Tavern
-~ I like to play chess and watching tournaments about them ♟️
-~ I like to take photos 📷
+~ I like video games 🎮, some strategy like CiV V (my favorite!), First Person Shooter (for example The Halo Series) <br />
+~ I like also board games 🎲, like Cavern Tavern <br />
+~ I like to play chess and watching tournaments about them ♟️ <br />
+~ I like to take photos 📷 <br />
 ~ I am here to enhance to learn new topics 💡 
 
 <!--
