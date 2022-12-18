@@ -1,16 +1,19 @@
 ### Hello Everyone! 
 
-My name is Krzysztof but you can call me Kris 😎 
+My name is Krzysztof but you can call me Kris 😎
 
-Currently im a student from Poznan University of Technology, my field of education is electronic and telecomunication.
+Currently im a student from Poznan University of Technology, my field of education is Electronic and Telecomunication.
 
-A little bit about me:
+A little words bit about me:
 
-~ I like video games 🎮, some strategy like CiV V (my favorite!), First Person Shooter (for example The Halo Series) <br />
+~ I like video games 🎮, some strategy like CiV V (my favorite!), First Person Shooter (for example The Halo Series) or more Multiplayer like Overwatch <br />
 ~ I like also board games 🎲, like Cavern Tavern <br />
 ~ I like to play chess and watching tournaments about them ♟️ <br />
 ~ I like to take photos 📷 <br />
 ~ I am here to enhance to learn new topics 💡 
+~ I like computers and programing, still lerning about them 
+
+In this profile i'll add my projects, to show what i did.
 
 <!--
 Do siebie samego: "<!-- zaczyna sie komentarz "- - >" razem połączone w 1 daje koniec linii z komentarzem. Także publicznie tego nie widać
