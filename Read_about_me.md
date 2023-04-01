@@ -1,8 +1,10 @@
 ### Hello Everyone! 
 
-My name is Krzysztof but you can call me Kris 😎
+My name is Krzysztof but you can call me Krzysiek or Kris 😎
 
-Currently im a student from Poznan University of Technology, my field of education is Electronic and Telecomunication.
+I am currently a student at the Poznan School of Banking, my field of study is Computer Science with a specialization profile: Advanced Database Systems
+
+I graduated from the Poznan University of Technology with a degree in Electronics and Telecommunications. The engineering thesis was done with a colleague Wojciech (https://github.com/Wojciech00Pal), it has the title: 'Communication in IoT systems'.
 
 A little words bit about me:
 
