@@ -5,6 +5,7 @@ My name is Krzysztof but you can call me Krzysiek or Kris 😎
 I graduated from the Poznan University of Technology with a degree in Electronics and Telecommunications. The engineering thesis was done with a colleague Wojciech (https://github.com/Wojciech00Pal), it has the title: 'Communication in IoT systems'.<br>
 
 I am currently a student at the WSB Merito Poznań University, my field of study is Computer Science with a specialization profile: Advanced Database Systems<br>
+
 I am looking for a job or internship in the profession and also looking for help to get to know oneself about that what im good at<br>
 You can aske me about what you want, but probabbly i will not always know the answer but i will try my best<br>
 
