@@ -1,6 +1,24 @@
 # 💫 About Me:
-I'm currently a computer science student looking for a job or internship in the profession <br>Learning NoSQL databases, python and germany<br>I'm looking for help to get to know oneself about that what im good at<br>You can aske me about what you want, but probabbly i will not always know the answer but i will try my best<br>I like play video games 
 
+My name is Krzysztof but you can call me Krzysiek or Kris 😎
+
+I graduated from the Poznan University of Technology with a degree in Electronics and Telecommunications. The engineering thesis was done with a colleague Wojciech (https://github.com/Wojciech00Pal), it has the title: 'Communication in IoT systems'.<br>
+
+I am currently a student at the WSB Merito Poznań University, my field of study is Computer Science with a specialization profile: Advanced Database Systems<br>
+I am looking for a job or internship in the profession<br>
+I am looking for help to get to know oneself about that what im good at<br>
+You can aske me about what you want, but probabbly i will not always know the answer but i will try my best<br>
+
+A little words bit about me:
+
+~ I like video games 🎮, some strategy like CiV V (my favorite!), First Person Shooter (for example The Halo Series) or more Multiplayer like Overwatch <br />
+~ I like also board games 🎲, like Cavern Tavern <br />
+~ I like to play chess and watching tournaments about them ♟️ <br />
+~ I like to take photos 📷 <br />
+~ I am here to enhance to learn new topics 💡 
+~ I like computers and programing, still lerning about them 
+
+In this profile i'll add my projects, to show what i did.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krzysztof-storo%C5%BCuk-b61bab225/) 
