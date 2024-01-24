@@ -36,3 +36,5 @@ In this profile i'll add my projects, to show what i did.
 [![](https://visitcount.itsvg.in/api?id=kryty8&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Bedzie trzeba sie zabrac za poprawienie tego i ogarniecie ogolnie jak dzialac z GitHubem XD Pozdrowienia Wariaciku -->
